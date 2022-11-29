@@ -1,0 +1,10 @@
+table,th,td{
+     border: 2px solid black;
+     border-collapse:collapse;
+     padding: 15px;
+     text-align:center;
+}
+.td1{
+    transform: rotate(90deg);
+    font-size: 30px;
+}
